@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Brand Green Palette -->
+    <color name="brand_green">#2E7D32</color>
+    <color name="brand_green_dark">#1B5E20</color>
+    <color name="brand_green_light">#E8F5E9</color>
+    <color name="jumia_dark_header">#1B2E1E</color>
+    <color name="bg_gray">#F4F5F7</color>
+    <color name="card_stroke">#E0E0E0</color>
+
+    <color name="text_primary">#212121</color>
+    <color name="text_secondary">#757575</color>
+    <color name="green_discount">#2E7D32</color>
+
+    <!-- Color references for layout styles -->
+    <color name="jumia_orange">@color/brand_green</color>
+    <color name="jumia_orange_dark">@color/brand_green_dark</color>
+    <color name="jumia_orange_light">@color/brand_green_light</color>
+</resources>
